@@ -1,0 +1,21 @@
+.cards {
+  border: 1px solid rgb(68, 68, 68);
+  margin: 10px 10px;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.card {
+  border: 1px solid black;
+}
+
+.card img {
+  height: 200px;
+  width: 100%;
+}
+
+.cards h3 , .cards p{
+  text-align: left;
+  margin: 5px 5px;
+}

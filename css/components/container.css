@@ -1,0 +1,18 @@
+
+.container{
+  width: 50%;
+  margin: 0 auto;
+  border: solid black;
+  border-radius: 4px;
+  margin-top: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container h2{
+  color: white;
+  text-shadow: 1 px 1px 3px rgba(0, 0green, 0, 0.3);
+  margin: 5px 5px;
+  text-align: center;
+  font-weight: bold;
+}

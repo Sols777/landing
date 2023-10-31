@@ -1,0 +1,33 @@
+.banner{
+  height: 400px;
+  width: 100%;
+  margin: 0 0 10px 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+}
+
+.banner-container{
+  width: 500px;
+  margin: 0 auto;
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 255px;
+  right: 510px;
+}
+
+.banner-container h1, .banner-container p {
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+  text-align: center;
+  margin: 0 auto;
+}
+
+.banner-container h1{
+  margin-top:0;
+  font-weight: bold;
+}
